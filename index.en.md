@@ -64,15 +64,15 @@ Please join slack from [here](https://join.slack.com/t/wakamonog/shared_invite/e
 
 ### Code of Condact for using Slack
 
- * Do not take actions that slander individuals or organizations.
- * Do not send unwanted DMs or harass others.
+1. Do not take actions that slander individuals or organizations.
+1. Do not send unwanted DMs or harass others.
 
 
 ### After registration
 
 After registration on the wakamonog Slack, please introduce yourself.(Optional)
 
-```------------------------------------------------------------------------
+<pre>------------------------------------------------------------------------
 Name:
 Age:
 Business:
@@ -80,13 +80,15 @@ Role:
 Interest:
 Favorite:
 Recent history:
-------------------------------------------------------------------------```
+------------------------------------------------------------------------</pre>
 
 ## Related documents
 
-* Lightning talk in JANOG Meeting 30. [\[LT6\] wakamonog reborn | プログラム情報 | JANOG30 Meeting](http://www.janog.gr.jp/meeting/janog30/program/lt6.html) (in Japanese, also English)
+* Lightning talk in JANOG Meeting 30.
+[\[LT6\] wakamonog reborn | プログラム情報 | JANOG30 Meeting](http://www.janog.gr.jp/meeting/janog30/program/lt6.html) (in Japanese, also English)
 
 ## Links
 
-[wakamonog(Google Groups)](https://groups.google.com/d/forum/wakamonog)
-[wakamonog(Facebook)](https://www.facebook.com/wakamonog/)
+* [wakamonog(Google Groups)](https://groups.google.com/d/forum/wakamonog)
+* [wakamonog(Facebook)](https://www.facebook.com/wakamonog/)
+* [wakamonog(connpass)](http://wakamonog.connpass.com/)
