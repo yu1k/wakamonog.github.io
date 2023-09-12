@@ -3,7 +3,7 @@ layout: layout
 title: wakamonog - インターネット支える若者たちのコミュニティ
 ---
 ## 次のイベント
-次のイベント "wakamonog meeting 12" は、２０２３年11月10日に開催いたします。
+次のイベント "wakamonog meeting 12" は、2023年11月10日に開催いたします。
 
 皆様のご参加をお待ちしております。
 
