@@ -9,6 +9,8 @@ title: wakamonog - インターネット支える若者たちのコミュニテ�
 
 [wakamonog meeting 12のconnpassページ（勉強会）](https://wakamonog.connpass.com/event/293169/)
 
+[wakamonog meeting 12 特別企画（とう道見学）のconnpassページ](https://wakamonog.connpass.com/event/296301/)
+
 
 ## wakamonogとは
 
