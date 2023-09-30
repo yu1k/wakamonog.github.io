@@ -47,6 +47,7 @@ wakamonogはWebアプリの開発者からISPの運用者まで幅広い分野�
 1. 2016/03/18 [wakamonog meeting #9](http://wakamonog.connpass.com/event/26284/)
 1. 2017/06/23 [wakamonog meeting #10](http://wakamonog.connpass.com/event/56705/)
 1. 2019/10/25 [wakamonog meeting #11](http://wakamonog.connpass.com/event/144741/) [福岡会場](https://wakamonog.connpass.com/event/148359/)
+1. 2023/07/06 [Rebooting wakamonog (JANOG 52 BoF)](https://www.janog.gr.jp/meeting/janog52/bof-wakamonog/)
 1. 2023/11/10 [wakamonog meeting #12](https://wakamonog.connpass.com/event/293169/)
 
 ## メンバー募集
